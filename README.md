@@ -17,12 +17,9 @@ The purpose of this project is to analyze the interactions that users have with 
 
 ## 1. Introduction  <a name="intro"></a>
 
-This project aims to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they might like. 
+This project aims to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they might like.  
 
-<br>
-<img src="https://github.com/sheilaxz/recommendations_with_ibm/blob/main/recom-ibm.png?raw=true" width="891" height="502">
-<br>
-<br>
+<img src="https://github.com/sheilaxz/recommendations_with_ibm/blob/main/recom-ibm.png?raw=true" width="891" height="502">  
 
 The figure above is an example of what the dashboard could look like displaying articles (here newest articles are desplayed) on the IBM Watson Platform. For recommendations, similar board can be available that shows the articles that are most pertinent to a specific user.
 
