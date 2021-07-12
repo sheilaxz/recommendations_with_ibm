@@ -56,7 +56,7 @@ The datasets can be found in folder [data](https://github.com/sheilaxz/recommend
 
 ### Data Processing and Other Files
 
-"Recommendations_with_IBM.ipynb" is a Jupyter Notebook file showing how the raw training dataset is processed and how different recommendation algorithms are trained in this project. 
+"Recommendations_with_IBM.ipynb" is a Jupyter Notebook file showing how the raw training dataset is processed and how different recommendation algorithms are trained in this project.  
 
 "Recommendations_with_IBM.html" is the Jupyter Notebook file in HTML format.  
 
