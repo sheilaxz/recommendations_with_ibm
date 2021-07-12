@@ -20,7 +20,7 @@ The purpose of this project is to analyze the interactions that users have with 
 This project aims to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they might like. 
 
 <br>
-<img src="link" width="250" height="200">
+<img src="https://github.com/sheilaxz/recommendations_with_ibm/blob/main/recom-ibm.png?raw=true" width="891" height="502">
 <br>
 <br>
 
